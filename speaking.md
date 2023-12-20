@@ -5,6 +5,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI
+* **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), African Startup Conference
 * **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham
 * **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection 
 * **October 2023:** Georgetown Hoyalytics Seminar
@@ -57,6 +59,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
+* **December 2023:** [AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups](https://africanstartupconference.org/en), African Startup Conference
 * **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
 * **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
 * **March 2022:** URMC Graduate School & Research Panel
